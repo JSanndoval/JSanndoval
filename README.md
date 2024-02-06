@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **virtual reality projects with Unity.**
 
-- 🌱 I’m currently learning **C# language**
+- 🌱 I’m currently learning **C# language.**
 
 - 👯 I’m looking to collaborate on **high-performance web development projects.**
 

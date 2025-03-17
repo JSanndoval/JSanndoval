@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, soy Jorge Sandoval</h1>
+<h1 align="center">Hi 👋, i am Jorge Sandoval</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
 - 🔭 I’m currently working on **virtual reality projects with Unity.**

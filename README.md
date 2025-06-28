@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **high-performance web development projects.**
 
-- 👨‍💻 All of my projects are available at [https://main--portfoliojorge9005.netlify.app/](https://main--portfoliojorge9005.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliojsp.rjsanndoval.com/](https://portfoliojsp.rjsanndoval.com/)
 
 - 📫 How to reach me **sanndovalpe.jorgeluis735@outlook.com**
 

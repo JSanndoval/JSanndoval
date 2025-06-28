@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://main--portfoliojorge9005.netlify.app/](https://main--portfoliojorge9005.netlify.app/)
 
-- 📫 How to reach me **Jorge9005@outlook.com**
+- 📫 How to reach me **sanndovalpe.jorgeluis735@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

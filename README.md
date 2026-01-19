@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliojsp.rjsanndoval.com/](https://portfoliojsp.rjsanndoval.com/)
 
-- 📫 How to reach me **sanndovalpe.jorgeluis735@outlook.com**
+- 📫 How to reach me **luis_sandoval.12@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

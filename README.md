@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **high-performance web development projects.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliojsp.rjsanndoval.com/](https://portfoliojsp.rjsanndoval.com/)
+- 👨‍💻 All of my projects are available at [https://sandocode.com/](https://sandocode.com/)
 
 - 📫 How to reach me **luis_sandoval.12@outlook.com**
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sandocode.com/](https://sandocode.com/)
 
-- My CV available at [https://portfoliojsp.netlify.app/](https://portfoliojsp.netlify.app/).
+- 🔭 My CV available at [https://portfoliojsp.netlify.app/](https://portfoliojsp.netlify.app/).
 
 - 📫 How to reach me **jorge_dev_sandoval@outlook.com**
 

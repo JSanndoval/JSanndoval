@@ -52,10 +52,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
 </p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JSanndoval&show_icons=true&theme=tokyonight&hide_border=true" alt="Jorge's GitHub stats" width="440"/>
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSanndoval&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="440"/>
-</p>

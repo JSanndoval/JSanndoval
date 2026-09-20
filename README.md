@@ -55,6 +55,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JSanndoval&show_icons=true&theme=tokyonight&hide_border=true" alt="Jorge's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSanndoval&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JSanndoval&show_icons=true&theme=tokyonight&hide_border=true" alt="Jorge's GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSanndoval&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>

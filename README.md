@@ -12,7 +12,6 @@
 - 👯 Buscando colaborar en proyectos web de alto rendimiento
 - 📫 Contáctame: **contacto@sandocode.com**
 - 🌐 Landing personal: [sandocode.com](https://sandocode.com/)
-- 📄 Mi CV: [jorgesandoval.netlify.app](https://jorgesandoval.netlify.app/)
 - ✍️ Mis escritos: [sandowrite.com](https://sandowrite.com/)
 
 <h3 align="left">Conecta conmigo:</h3>

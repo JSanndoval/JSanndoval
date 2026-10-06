@@ -10,7 +10,7 @@
 - 🔭 Construyendo mi **CV/portafolio** y un **tour virtual en Three.js** de mi facultad (FIME, UANL)
 - 🌱 Profundizando en **Next.js, Prisma y PostgreSQL** con un proyecto de e-commerce
 - 👯 Buscando colaborar en proyectos web de alto rendimiento
-- 📫 Contáctame: **jorge_dev_sandoval@outlook.com**
+- 📫 Contáctame: **contacto@sandocode.com**
 - 🌐 Landing personal: [sandocode.com](https://sandocode.com/)
 - 📄 Mi CV: [jorgesandoval.netlify.app](https://jorgesandoval.netlify.app/)
 - ✍️ Mis escritos: [sandowrite.com](https://sandowrite.com/)
